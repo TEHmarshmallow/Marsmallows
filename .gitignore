@@ -1,0 +1,34 @@
+src/*.exe
+src/Marsmello
+src/Marsmellod
+src/test_Marsmello
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.Marsmello
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+Marsmello-qt
+Marsmello-Qt.app
+
+# Unit-tests
+Makefile.test
+Marsmello-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

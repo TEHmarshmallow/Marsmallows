@@ -1,0 +1,9 @@
+Building Marsmello
+
+See doc/readme-qt.rst for instructions on building Marsmello-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Marsmello.
+
+See doc/build-*.txt for instructions on building Marsmellod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Marsmello.

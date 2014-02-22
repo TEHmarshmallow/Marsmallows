@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Marsmello
+Comment=Marsmello P2P Cryptocurrency
+Comment[fr]=Marsmello, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Marsmello, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Marsmello-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/Marsmello128.png
+MimeType=x-scheme-handler/Marsmello;
+Categories=Office;

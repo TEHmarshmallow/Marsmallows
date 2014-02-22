@@ -1,0 +1,6 @@
+Marsmello-qt usr/bin
+share/pixmaps/Marsmello32.xpm usr/share/pixmaps
+share/pixmaps/Marsmello16.xpm usr/share/pixmaps
+share/pixmaps/Marsmello128.png usr/share/pixmaps
+debian/Marsmello-qt.desktop usr/share/applications
+debian/Marsmello-qt.protocol usr/share/kde4/services/
